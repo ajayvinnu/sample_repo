@@ -12,3 +12,4 @@ function Car() {
 
 
 module.exports = new Car();
+module.exports = new Car();
